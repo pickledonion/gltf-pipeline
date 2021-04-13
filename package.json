@@ -33,6 +33,7 @@
     "gm": "^1.23.1",
     "mime": "^2.4.5",
     "object-hash": "^2.0.3",
+    "uuid": "^8.3.2",
     "yargs": "^15.3.1"
   },
   "devDependencies": {
